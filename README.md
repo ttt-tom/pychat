@@ -1,169 +1,231 @@
-### 🚀 **Py ChatBot 项目需求文档** 🚀  
-
-# 📄 **README.md**  
+### 🚀 **Docker + Python FAQ ChatBot 项目代码模板** 🚀  
 
 ---
 
-## 📚 **项目名称**  
-**基于 Docker + Python 的 FAQ ChatBot**  
+## 📂 **项目结构**  
+
+```
+faq-chatbot/
+├── app/
+│   ├── main.py          # 核心后端服务
+│   ├── chatbot.py       # ChatBot 逻辑
+│   ├── database.py      # FAQ 数据库管理
+│   ├── config.py        # 配置文件
+│   └── requirements.txt # 依赖库
+├── static/
+│   ├── widget.html      # 嵌入 WordPress 的 HTML/JS 小部件
+├── Dockerfile           # Docker 构建文件
+├── docker-compose.yml   # Docker Compose 文件
+└── README.md            # 项目文档
+```
 
 ---
 
-## 📝 **项目简介**  
-- **目标**：基于 Python 和 Docker 搭建一个 FAQ ChatBot，能够直接部署在 WordPress 或独立网站上。  
-- **核心功能**：支持用户通过 ChatBot 查询 FAQ 数据，提供 REST API，并支持容器化部署。  
-- **技术栈**：Python、Docker、REST API、SQLite/JSON、HTML/JS、GitHub。 
+## 🐍 **1. Python 后端代码**
+
+### **app/main.py**
+```python
+from fastapi import FastAPI
+from chatbot import ChatBot
+from database import FAQDatabase
+
+app = FastAPI()
+db = FAQDatabase()
+chatbot = ChatBot(db)
+
+@app.get("/")
+def read_root():
+    return {"message": "Welcome to the FAQ ChatBot API!"}
+
+@app.get("/ask/")
+def ask_question(question: str):
+    answer = chatbot.get_answer(question)
+    return {"question": question, "answer": answer}
+```
 
 ---
 
-## 🎯 **功能需求**  
+### **app/chatbot.py**
+```python
+class ChatBot:
+    def __init__(self, database):
+        self.db = database
 
-### 1️⃣ **FAQ 数据管理**  
-- 将提供的 FAQ 数据集导入系统。  
-- 支持简单的 CRUD 操作（可选）。  
-
-### 2️⃣ **ChatBot API 服务**  
-- 使用 Python 开发 ChatBot 后端服务。  
-- 提供 REST API，接受用户提问并返回基于 FAQ 数据的答案。  
-- 错误响应时返回友好的消息提示。  
-
-### 3️⃣ **Docker 容器化**  
-- 使用 Dockerfile 和 docker-compose.yml 打包服务。  
-- 确保可以在任何环境中快速启动和部署。  
-
-### 4️⃣ **前端集成**  
-- 提供可嵌入 WordPress 的 HTML/JavaScript 小部件。  
-- 在 WordPress 页面中嵌入 ChatBot 服务。  
-- 支持独立网站页面集成。  
-
-### 5️⃣ **日志与调试**  
-- 支持基础日志记录，便于问题跟踪和分析。  
-- 提供错误日志和调试信息。  
+    def get_answer(self, question: str) -> str:
+        faq_data = self.db.get_faq_data()
+        for item in faq_data:
+            if question.lower() in item['question'].lower():
+                return item['answer']
+        return "Sorry, I don't have an answer for that question."
+```
 
 ---
 
-## 🛠️ **技术要求**  
+### **app/database.py**
+```python
+import json
 
-### **后端技术**  
-- Python（Flask 或 FastAPI）  
-- SQLite / JSON 数据存储  
-- REST API 开发  
+class FAQDatabase:
+    def __init__(self):
+        self.faq_file = 'faq_data.json'
 
-### **容器化**  
-- Docker  
-- Docker Compose  
-
-### **前端技术**  
-- HTML / JavaScript 小部件  
-- WordPress 页面集成  
-
-### **版本控制**  
-- GitHub（版本管理、分支策略）  
+    def get_faq_data(self):
+        with open(self.faq_file, 'r', encoding='utf-8') as f:
+            return json.load(f)
+```
 
 ---
 
-## 📚 **文档需求**  
-
-### **1. 产品手册**  
-- 系统架构说明  
-- 用户操作指南  
-- 安装与部署步骤  
-
-### **2. 开发文档**  
-- API 接口文档  
-- 代码结构说明  
-- 开发与调试指南  
-
-### **3. README 文件**  
-- 快速启动指南  
-- 项目说明  
+### **app/config.py**
+```python
+class Config:
+    APP_NAME = "FAQ ChatBot"
+    VERSION = "1.0"
+    DEBUG = True
+```
 
 ---
 
-## 🧑‍💻 **开发流程**  
-
-### **1. 第一阶段：需求分析与设计**  
-- 提供 FAQ 数据集  
-- 设计系统架构图  
-
-### **2. 第二阶段：开发**  
-- 开发 ChatBot API  
-- 实现 Docker 容器化  
-
-### **3. 第三阶段：测试**  
-- 在本地进行单元测试和集成测试  
-- 模拟用户场景进行测试  
-
-### **4. 第四阶段：部署**  
-- 部署到 WordPress 或独立网站  
-- 提供嵌入式代码  
-
-### **5. 第五阶段：文档编写**  
-- 产品手册与开发文档  
-- 快速启动说明  
+### **app/requirements.txt**
+```
+fastapi==0.95.2
+uvicorn==0.21.1
+```
 
 ---
 
-## 📤 **提交成果**  
+## 📦 **2. FAQ 数据文件**
 
-1. 完整的 GitHub 仓库链接  
-2. Docker 镜像（可通过 Docker Hub 提供）  
-3. 产品手册与开发文档（PDF 格式）  
-4. 可直接在 WordPress 中嵌入的 HTML/JS 小部件  
-5. 部署演示链接（可选）  
-
----
-
-## ✅ **验收标准**  
-
-### **1. 技术实现（40%）**  
-- API 完整性  
-- Docker 容器化效果  
-- 前端集成可用性  
-
-### **2. 文档质量（20%）**  
-- 清晰易懂的产品手册  
-- 完整的 API 文档  
-
-### **3. 代码质量（20%）**  
-- 模块化设计  
-- 良好的可读性  
-
-### **4. 项目演示（10%）**  
-- 稳定运行  
-- 功能完整  
-
-### **5. 版本控制（10%）**  
-- 使用 GitHub 进行规范的版本管理  
+### **faq_data.json**
+```json
+[
+    {
+        "question": "What is your return policy?",
+        "answer": "You can return the product within 30 days."
+    },
+    {
+        "question": "How can I contact support?",
+        "answer": "You can email support@example.com."
+    }
+]
+```
 
 ---
 
-## 🌟 **加分项**  
-- 支持多语言（如中英文切换）  
-- 添加管理员控制面板  
-- 支持自定义 FAQ 数据上传  
+## 🐳 **3. Docker 文件**
+
+### **Dockerfile**
+```dockerfile
+# 使用 Python 官方镜像
+FROM python:3.9-slim
+
+# 设置工作目录
+WORKDIR /app
+
+# 复制文件
+COPY ./app /app
+COPY ./faq_data.json /app/faq_data.json
+
+# 安装依赖
+RUN pip install --no-cache-dir -r requirements.txt
+
+# 启动服务
+CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
+```
 
 ---
 
-## 📅 **项目周期**  
-- **总时长**：2 周  
-   - 第1周：开发与测试  
-   - 第2周：文档撰写与演示  
+### **docker-compose.yml**
+```yaml
+version: '3.8'
+
+services:
+  chatbot:
+    build: .
+    container_name: faq_chatbot
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./app:/app
+      - ./faq_data.json:/app/faq_data.json
+```
 
 ---
 
-## 📚 **推荐参考资料**  
-1. [Docker 官方文档](https://docs.docker.com/)  
-2. [Flask 官方文档](https://flask.palletsprojects.com/)  
-3. [WordPress 插件开发文档](https://developer.wordpress.org/plugins/)  
+## 🌐 **4. WordPress 嵌入小部件**
+
+### **static/widget.html**
+```html
+<div id="faq-chatbot">
+  <input type="text" id="user-question" placeholder="Ask a question...">
+  <button onclick="askFAQ()">Ask</button>
+  <div id="faq-answer"></div>
+</div>
+
+<script>
+async function askFAQ() {
+    const question = document.getElementById('user-question').value;
+    const response = await fetch(`http://your-server-ip:8000/ask/?question=${question}`);
+    const data = await response.json();
+    document.getElementById('faq-answer').innerText = data.answer;
+}
+</script>
+```
 
 ---
 
-## 💡 **项目开始**  
-- 请 Fork 本项目到你的 GitHub 账号。  
-- 开始开发并在 README 中记录每个阶段的进度。  
-- 完成后提交 Pull Request 进行评审。  
+## 📝 **5. 快速启动**
+
+### 📦 **本地运行**
+```bash
+# 安装依赖
+pip install -r app/requirements.txt
+
+# 启动服务
+uvicorn app.main:app --reload
+```
+
+### 🐳 **Docker 部署**
+```bash
+# 构建镜像
+docker-compose up --build -d
+
+# 访问服务
+http://localhost:8000
+```
+
+### 🌐 **嵌入 WordPress**
+1. 将 `widget.html` 代码粘贴到 WordPress 页面编辑器的 HTML 模式下。  
+2. 将 `your-server-ip` 替换为实际服务器 IP 地址。  
 
 ---
 
-**🎓 期待你的高质量项目提交，展示你的技术与创新能力！** 💻✨
+## ✅ **6. API 测试**
+
+- **根路径**：`GET /`  
+   **返回**：`{"message": "Welcome to the FAQ ChatBot API!"}`  
+
+- **查询 FAQ**：`GET /ask/?question=your-question`  
+   **示例**：`/ask/?question=How can I contact support?`  
+   **返回**：`{"question": "How can I contact support?", "answer": "You can email support@example.com."}`  
+
+---
+
+## 📤 **7. 提交指南**
+
+1. Fork 项目到个人 GitHub。  
+2. 完成开发并提交代码。  
+3. 编写产品手册和开发文档。  
+4. 提交 Pull Request。  
+
+---
+
+## 🚀 **8. 后续优化**
+
+- 支持添加/删除 FAQ。  
+- 添加管理员后台控制面板。  
+- 优化前端交互效果。  
+
+---
+
+**🎓 期待你的优秀项目交付！** 💻🔥
