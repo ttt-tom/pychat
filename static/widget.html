@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChatBot Widget</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            font-size: 14px; 
+        }
+        .chat-container {
+            width: 100%;
+            max-width: 400px;
+            margin: 0 auto;
+            border: 1px solid #ccc;
+            padding: 15px; 
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        .messages {
+            height: 200px;
+            overflow-y: auto;
+            margin-bottom: 15px; 
+            border: 1px solid #ddd;
+            padding: 8px;
+            border-radius: 5px;
+            background: #f9f9f9;
+            font-size: 12px; 
+            line-height: 1.4; 
+        }
+        .messages p {
+            margin: 0;
+            padding: 4px 0; 
+        }
+        .input-container {
+            display: flex;
+            gap: 8px; 
+        }
+        input[type="text"] {
+            flex: 1;
+            padding: 8px; 
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 12px; 
+        }
+        button {
+            padding: 8px 12px; 
+            background: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 12px; 
+        }
+        button:hover {
+            background: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="chat-container">
+        <h2>ChatBot</h2>
+        <div class="messages" id="messages"></div>
+        <div class="input-container">
+            <input type="text" id="userInput" placeholder="Type your question here...">
+            <button id="sendButton">Send</button>
+        </div>
+    </div>
+
+    <script>
+        const sendButton = document.getElementById('sendButton');
+        const userInput = document.getElementById('userInput');
+        const messages = document.getElementById('messages');
+
+        sendButton.addEventListener('click', () => {
+            const question = userInput.value.trim();
+            if (question) {
+                // Display input in the chat
+                const userMessage = document.createElement('p');
+                userMessage.textContent = `You: ${question}`;
+                messages.appendChild(userMessage);
+
+                // Send the question ,need to change the URL to the correct one.
+                fetch('http://localhost:8000/ask/?question=' + encodeURIComponent(question))
+                    .then(response => response.json())
+                    .then(data => {
+                        // Display the chatbot's response
+                        const botMessage = document.createElement('p');
+                        botMessage.textContent = `Bot: ${data.answer}`;
+                        messages.appendChild(botMessage);
+
+                        // If a URL exists, display it .
+                        if (data.url && data.url !== "None") {
+                            const botLinkMessage = document.createElement('p');
+                            botLinkMessage.innerHTML = `Bot: You can find more details in this link: <a href="${data.url}" target="_blank">Click here</a>`;
+                            messages.appendChild(botLinkMessage);
+                        }
+
+                        messages.scrollTop = messages.scrollHeight; // Scroll to bottom
+                    })
+                    .catch(error => {
+                        console.error('Error:', error);
+                        const errorMessage = document.createElement('p');
+                        errorMessage.textContent = 'Error: Unable to get a response from the bot.';
+                        messages.appendChild(errorMessage);
+                        messages.scrollTop = messages.scrollHeight;
+                    });
+
+                // Clear the input field
+                userInput.value = '';
+            }
+        });
+    </script>
+</body>
+</html>

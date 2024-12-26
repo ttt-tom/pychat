@@ -1,0 +1,569 @@
+{
+    "categories": [
+      {
+        "category": "Country Coverage",
+        "subcategories": [
+          {
+            "subcategory": "Groups",
+            "faqs": [
+              {
+                "question": "What is the Belt & Road group?",
+                "answer": "The Belt & Road group covers trade data from countries involved in the Belt and Road Initiative.",
+                "url": "https://www.tradeint.com/product/countries-covered/groups-import-export-trade-data/belt-&-road-trade-data/"
+              },
+              {
+                "question": "What is the Central America (Transit) group?",
+                "answer": "This group covers transit trade data from Central American countries.",
+                "url": "https://www.tradeint.com/product/countries-covered/groups-import-export-trade-data/central-america-(transit)-trade-data/"
+              },
+              {
+                "question": "What is the Central Asia (Transit) group?",
+                "answer": "This group covers transit trade data from Central Asian countries.",
+                "url": "https://www.tradeint.com/product/countries-covered/groups-import-export-trade-data/central-asia-(transit)-trade-data/"
+              },
+              {
+                "question": "What is the CIS group?",
+                "answer": "The CIS group covers trade data from Commonwealth of Independent States (CIS) countries.",
+                "url": "https://www.tradeint.com/product/countries-covered/groups-import-export-trade-data/cis-trade-data/"
+              },
+              {
+                "question": "What is the Pacific Alliance group?",
+                "answer": "The Pacific Alliance group covers trade data from countries in the Pacific Alliance.",
+                "url": "https://www.tradeint.com/product/countries-covered/groups-import-export-trade-data/pacific-alliance-trade-data/"
+              }
+            ]
+          },
+          {
+            "subcategory": "Africa",
+            "faqs": [
+              {
+                "question": "Which countries are covered in Africa?",
+                "answer": "Countries such as Algeria, Angola, Botswana, Egypt, Kenya, Nigeria, South Africa, and many more are included.",
+                "url": "https://www.tradeint.com/product/countries-covered/africa-import-export-trade-data/"
+              }
+            ]
+          },
+          {
+            "subcategory": "Asia",
+            "faqs": [
+              {
+                "question": "Which countries are covered in Asia?",
+                "answer": "Countries such as China, India, Japan, Singapore, South Korea, and many more are included.",
+                "url": "https://www.tradeint.com/product/countries-covered/asia-import-export-trade-data/"
+              }
+            ]
+          },
+          {
+            "subcategory": "Europe",
+            "faqs": [
+              {
+                "question": "Which countries are covered in Europe?",
+                "answer": "Countries such as Germany, France, United Kingdom, Russia, and many more are included.",
+                "url": "https://www.tradeint.com/product/countries-covered/europe-import-export-trade-data/"
+              }
+            ]
+          },
+          {
+            "subcategory": "North America",
+            "faqs": [
+              {
+                "question": "Which countries are covered in North America?",
+                "answer": "Countries such as United States, Canada, Mexico, and many more are included.",
+                "url": "https://www.tradeint.com/product/countries-covered/north-america-import-export-trade-data/"
+              }
+            ]
+          },
+          {
+            "subcategory": "Oceania",
+            "faqs": [
+              {
+                "question": "Which countries are covered in Oceania?",
+                "answer": "Countries such as Australia, New Zealand, Fiji, and many more are included.",
+                "url": "https://www.tradeint.com/product/countries-covered/oceania-import-export-trade-data/"
+              }
+            ]
+          },
+          {
+            "subcategory": "South America",
+            "faqs": [
+              {
+                "question": "Which countries are covered in South America?",
+                "answer": "Countries such as Brazil, Argentina, Chile, and many more are included.",
+                "url": "https://www.tradeint.com/product/countries-covered/south-america-import-export-trade-data/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Solutions",
+        "subcategories": [
+          {
+            "subcategory": "Importer",
+            "faqs": [
+              {
+                "question": "What is Easy Supplier Discovery?",
+                "answer": "Discover businesses worldwide anytime, anywhere. Access company data online, shortlist active exporters, track competitors' shipments, and more. Create a qualified list of potential suppliers globally. Instantly search companies by location, trade information, and business partners through our dashboard.",
+                "url": "https://www.tradeint.com/solution/importer/easy-supplier-discovery/"
+              },
+              {
+                "question": "How can I monitor competitors' trade?",
+                "answer": "View trade activities of competitors, trading partners, and prospects. Assess market strategies, understand market share, and analyze business performance.",
+                "url": "https://www.tradeint.com/solution/importer/monitor-competitors-trade/"
+              },
+              {
+                "question": "How can I get supplier activity updates?",
+                "answer": "Stay informed about your supplier's every trade activity. Access crucial data to negotiate better prices, avoid complexities, and stay updated on your supplier's business activities.",
+                "url": "https://www.tradeint.com/solution/importer/get-supplier-activity/"
+              }
+            ]
+          },
+          {
+            "subcategory": "Business",
+            "faqs": [
+              {
+                "question": "What is Prospect Identification?",
+                "answer": "Analyze the trade performance of companies to pinpoint potential prospects. Gain insights into promising industries conducive to business growth. Identify emerging opportunities, conduct evaluations, and negotiate better business deals. Obtain market intelligence pertaining to global trade dynamics.",
+                "url": "https://www.tradeint.com/solution/business/prospect-identification/"
+              },
+              {
+                "question": "What is Market Intelligence?",
+                "answer": "Establish benchmarks, glean industry intelligence, and track market trends. Compare prices of different commodities and monitor trade patterns in the international market.",
+                "url": "https://www.tradeint.com/solution/business/market-intelligence/"
+              },
+              {
+                "question": "What is Competitive Assessment?",
+                "answer": "Generate insightful reports using import-export statistics. Access comprehensive insights and industry reports for thorough research. Enhance competitive analysis and optimize business performance. Identify potential leads through bilateral trade statistics.",
+                "url": "https://www.tradeint.com/solution/business/competitive-assessment/"
+              }
+            ]
+          },
+          {
+            "subcategory": "Sales & Marketing",
+            "faqs": [
+              {
+                "question": "How can I discover sales leads?",
+                "answer": "Monitor existing prospects for sustained business success. Identify potential leads based on imported commodities. Leverage global trade statistics to refine business strategies.",
+                "url": "https://www.tradeint.com/solution/sales/discover-sales-leads/"
+              },
+              {
+                "question": "How can I enhance sales performance?",
+                "answer": "Conduct comparative analysis between current and historical pricing data. Align pricing with prevailing trade market trends.",
+                "url": "https://www.tradeint.com/solution/sales/enhance-sales-performance/"
+              },
+              {
+                "question": "How can I optimize pricing strategy?",
+                "answer": "Integrate insights into all facets of marketing operations. Monitor trends within specific commodities, markets, or regions.",
+                "url": "https://www.tradeint.com/solution/sales/optimize-pricing-strategy/"
+              }
+            ]
+          },
+          {
+            "subcategory": "Logistics",
+            "faqs": [
+              {
+                "question": "What does 'Prospect New Opportunities' mean?",
+                "answer": "Access, scrutinize, and target emerging markets. Identify business avenues using company revenues, contact information, and trade data. Analyze trade dynamics related to clientele and competitors.",
+                "url": "https://www.tradeint.com/solution/logistics/prospect-new-opportunities/"
+              },
+              {
+                "question": "How can I cultivate business relationships?",
+                "answer": "Discern and compare operations of key industry contenders. Employ AI-driven tools to analyze market share based on shipment volume and other metrics.",
+                "url": "https://www.tradeint.com/solution/logistics/cultivate-business-relationships/"
+              },
+              {
+                "question": "How can I assess market share?",
+                "answer": "Leverage trade data insights to strategize and optimize business operations.",
+                "url": "https://www.tradeint.com/solution/logistics/assess-market-share/"
+              }
+            ]
+          },
+          {
+            "subcategory": "Financial Institution",
+            "faqs": [
+              {
+                "question": "How can financial institutions mitigate risks?",
+                "answer": "Mitigate risk by monitoring trading activities. Identify potential sources aligning with business criteria. Examine extensive trade data and financial insights. Leverage bilateral trade data and market intelligence solutions.",
+                "url": "https://www.tradeint.com/solution/financial-institution/"
+              }
+            ]
+          },
+          {
+            "subcategory": "Consulting Firm",
+            "faqs": [
+              {
+                "question": "How can consulting firms use trade data?",
+                "answer": "Achieve quantifiable outcomes for sustainable business growth. Leverage trade data for strategic decision-making. Gain deeper market insights and broaden perspectives.",
+                "url": "https://www.tradeint.com/solution/consulting-firm/"
+              }
+            ]
+          },
+          {
+            "subcategory": "Insurance Company",
+            "faqs": [
+              {
+                "question": "How can insurance actuaries benefit from trade data?",
+                "answer": "Analyze financial instruments for insurance entities. Enhance investment decision-making. Identify market trends to propel business strategies.",
+                "url": "https://www.tradeint.com/solution/insurance-company/actuaries/"
+              },
+              {
+                "question": "How can investment managers benefit from trade data?",
+                "answer": "Drive product innovation. Maintain a competitive edge in the marketplace.",
+                "url": "https://www.tradeint.com/solution/insurance-company/investment-managers/"
+              },
+              {
+                "question": "How can risk controllers use trade data?",
+                "answer": "Assess global import-export statistics and market share. Utilize shipment data for product insights.",
+                "url": "https://www.tradeint.com/solution/insurance-company/risk-controllers/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Terms and Conditions",
+        "subcategories": [
+          {
+            "subcategory": "Privacy Policy",
+            "faqs": [
+              {
+                "question": "What is the purpose of this Privacy Policy?",
+                "answer": "We take our obligations under the Singapore Personal Data Protection Act 2012 seriously. This Privacy Policy explains how we collect, use, disclose, and process your personal data."
+              },
+              {
+                "question": "When is personal data collected?",
+                "answer": "We may collect personal data when you use our contact page, error logging tools, or through details of your visits to our Website."
+              },
+              {
+                "question": "What are cookies used for?",
+                "answer": "Cookies are used to enhance user experience. You can accept or decline cookies through browser settings, but disabling cookies may limit functionality."
+              },
+              {
+                "question": "How is personal data used?",
+                "answer": "Personal data is used for managing accounts, contacting users, administering the Website, personalizing interactions, conducting research, and legal compliance."
+              },
+              {
+                "question": "Will my personal data be shared?",
+                "answer": "Personal data may be disclosed to third parties for outlined purposes. We do not sell or rent personal data."
+              },
+              {
+                "question": "Will my personal data be transferred outside of Singapore?",
+                "answer": "Personal data may be transferred, processed, and stored outside of Singapore under protective agreements."
+              },
+              {
+                "question": "Can I update my personal data?",
+                "answer": "Ensure the accuracy of submitted personal data and notify us of any changes."
+              },
+              {
+                "question": "What rights do I have regarding my personal data?",
+                "answer": "You may withdraw consent, request access to, or correct your personal data held by us, subject to a reasonable fee."
+              },
+              {
+                "question": "Can this Privacy Policy change?",
+                "answer": "We reserve the right to amend this Privacy Policy at any time. Continued use of our Website signifies acceptance of updates."
+              },
+              {
+                "question": "Who can I contact for more information?",
+                "answer": "For inquiries, contact our Data Protection Officer at admin@tradeint.com."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "category": "HelpCenter",
+        "subcategories": [
+          {
+            "subcategory": "Account",
+            "faqs": [
+              {
+                "question": "How do I create an account on TradeInt?",
+                "answer": "To create an account on TradeInt, simply visit our website pricing and click on the \"Get Standard/Essential/Premium\" button. Choose your payment method of Stripe or Paypal. Fill out the required information, including your name, email address, and desired password. Once completed, you will receive an account creation link in your email, and your account will be created.",
+                "url": "https://www.tradeint.com/helpCenter/how-do-i-create-an-account-on-tradeint/"
+              },
+              {
+                "question": "Can I change my account password?",
+                "answer": "Yes, you can change your account password. To do so, log in to your TradeInt account. Look for the option to change your password and follow the provided instructions. Make sure to choose a strong and unique password for security purposes.",
+                "url": "https://www.tradeint.com/helpCenter/can-i-change-my-account-password/"
+              },
+              {
+                "question": "What should I do if I forget my account password?",
+                "answer": "If you forget your account password, don't worry. On the login page, you will find a \"Forgot Password\" link. Click on it and enter the email address associated with your TradeInt account. Follow the instructions sent to your email to reset your password and regain access to your account.",
+                "url": "https://www.tradeint.com/helpCenter/what-should-i-do-if-i-forget-my-account-password/"
+              },
+              {
+                "question": "Can I update my account information?",
+                "answer": "Yes, you can update your account information as needed. Log in to your TradeInt account and go to 'My Account.' Here, you can modify your personal details, such as your name, contact information, and preferences. Make sure to save the changes after updating your account information.",
+                "url": "https://www.tradeint.com/helpCenter/can-i-update-my-account-information/"
+              },
+              {
+                "question": "Can I upgrade my subscription plan?",
+                "answer": "Yes, you have the flexibility to upgrade your subscription plan on TradeInt. Please contact your sales specialist, or alternatively you may contact TradeInt at sales@TradeInt.",
+                "url": "https://www.tradeint.com/helpCenter/can-i-upgrade-my-subscription-plan/"
+              },
+              {
+                "question": "How can I contact customer support for account-related inquiries?",
+                "answer": "If you have any account-related inquiries or need assistance, our TradeInt customer support team is here to help. You can contact us through email, phone, or the online contact form available on our website. We will respond to your inquiries and provide the necessary support to address your account-related concerns.",
+                "url": "https://www.tradeint.com/helpCenter/how-can-i-contact-customer-support-for-account-related-inquiries/"
+              },
+              {
+                "question": "Can I cancel my TradeInt subscription?",
+                "answer": "We apologize for any inconvenience, but we do not offer the option to cancel subscriptions or provide refunds. Once you subscribe to TradeInt, the subscription is non-cancellable and non-refundable. We encourage you to carefully consider your subscription plan and its suitability for your needs before making a purchase.",
+                "url": "https://www.tradeint.com/helpCenter/can-i-cancel-my-tradeint-subscription/"
+              },
+              {
+                "question": "What happens if I no longer want to use TradeInt after subscribing?",
+                "answer": "We understand that circumstances may change, but please note that once you have subscribed to TradeInt, the subscription is considered non-cancellable. As such, it is important to assess your requirements and choose a subscription plan that aligns with your long-term needs.",
+                "url": "https://www.tradeint.com/helpCenter/what-happens-if-i-no-longer-want-to-use-tradeint-after-subscribing/"
+              },
+              {
+                "question": "How can I contact support?",
+                "answer": "You can email support@example.com."
+              },
+              {
+                "question": "What is your return policy?",
+                "answer": "You can return the product within 30 days."
+              }
+              
+            ]
+          },
+          {
+            "subcategory": "Contact Us",
+            "faqs": [
+              {
+                "question": "How can I contact TradeInt?",
+                "answer": "If you need to get in touch with TradeInt, we are here to assist you. Please refer to the following contact information:\n\n- **Email**: You can reach us by sending an email to sales@TradeInt, and our team will respond to your inquiry as soon as possible.\n- **Online Contact Form**: Visit our website at [TradeInt Contact Form](https://TradeInt.com/contact-us/) and fill out the online contact form. Provide your name, email address, subject, and message, and we will get back to you promptly.\n- **Live Chat Support**: On our website, you will find a live chat option available during business hours. Click on the chat icon, and our team will assist you in real-time.\n- **Phone**: If you prefer speaking with us directly, you can contact our sales team via phone at +65 8223 9976. Please check our website for the most up-to-date contact numbers based on your location.\n- **Whatsapp**: If you prefer messaging, you can Whatsapp our sales team directly.",
+                "url": "https://www.tradeint.com/helpCenter/how-can-i-contact-tradeint/"
+              },
+              {
+                "question": "What are the operating hours for TradeInt's customer support?",
+                "answer": "Our customer support team is available to assist you during regular business hours (GMT+8), Monday through Friday. The exact operating hours may vary based on your region. Please refer to our TradeInt website or contact us directly for specific information.",
+                "url": "https://www.tradeint.com/helpCenter/what-are-the-operating-hours-for-tradeint's-customer-support/"
+              },
+              {
+                "question": "How long does it take to receive a response to my inquiry?",
+                "answer": "At TradeInt, we strive to provide timely responses to all inquiries. Our team is dedicated to addressing your questions and concerns promptly. While response times may vary based on the volume of inquiries, we make every effort to reply to your messages as soon as possible, typically within one business day.",
+                "url": "https://www.tradeint.com/helpCenter/how-long-does-it-take-to-receive-a-response-to-my-inquiry/"
+              },
+              {
+                "question": "Are there resources available for self-help and support?",
+                "answer": "Yes, TradeInt provides resources to help you navigate and maximize the benefits of our platform. We offer user guides, tutorials, and frequently asked questions (FAQs) on our website's help centre. These resources can assist you in understanding various features and functionalities. If you need further assistance, our support team is always available to provide guidance.",
+                "url": "https://www.tradeint.com/helpCenter/are-there-resources-available-for-self-help-and-support/"
+              },
+              {
+                "question": "I have a specific question about trade data or data analysis. Can you help?",
+                "answer": "Certainly! TradeInt specializes in trade data and analysis. If you have specific questions or require assistance with trade data interpretation, market insights, or data analysis techniques, our team of experts is ready to support you. Contact us through the available channels mentioned above, and we will be glad to assist you.",
+                "url": "https://www.tradeint.com/helpCenter/i-have-a-specific-question-about-trade-data-or-data-analysis.-can-you-help/"
+              }
+            ]
+          },
+          {
+            "category": "Payment",
+            "faqs": [
+              {
+                "question": "What payment methods are accepted for TradeInt subscriptions?",
+                "answer": "Currently, TradeInt accepts payments made through Bank Transfer, Paypal, and Stripe.",
+                "url": "https://www.tradeint.com/helpCenter/what-payment-methods-are-accepted-for-tradeint-subscriptions/"
+              },
+              {
+                "question": "Are refunds available for TradeInt subscriptions?",
+                "answer": "TradeInt follows a no-refund policy once payment has been made. As our products are classified as intangible or virtual goods/services, we do not offer refunds for one-time transaction products. We encourage customers to carefully assess their needs and ensure that TradeInt is the right fit before making a payment.",
+                "url": "https://www.tradeint.com/helpCenter/are-refunds-available-for-tradeint-subscriptions/"
+              },
+              {
+                "question": "When will I receive access to my TradeInt subscription after making a payment?",
+                "answer": "Once your payment has been made and confirmed, access to your TradeInt subscription will be granted within 24 hours. You will receive a confirmation email containing all the necessary details. This email will serve as confirmation of delivery and the commencement of your subscription.",
+                "url": "https://www.tradeint.com/helpCenter/when-will-i-receive-access-to-my-tradeint-subscription-after-making-a-payment/"
+              },
+              {
+                "question": "How does TradeInt provide information about its products?",
+                "answer": "TradeInt utilizes webpage displays, online communication, and other means of communication to provide customers with comprehensive information about our products. It is the customer's responsibility to fully understand the product and assess its suitability for their needs. If you have any questions or face significant issues, we recommend contacting our customer service and sales team before making a payment. We are committed to assisting customers in addressing any concerns and providing proactive support to resolve related issues.",
+                "url": "https://www.tradeint.com/helpCenter/how-does-tradeint-provide-information-about-its-products/"
+              },
+              {
+                "question": "What should I do if I encounter any problems or have questions about my payment or subscription?",
+                "answer": "If you encounter any problems with your payment or have questions regarding your TradeInt subscription, please reach out to our customer service team. We are here to assist you and provide the necessary support. You can contact us through email or other designated communication channels, and we will promptly address your concerns.",
+                "url": "https://www.tradeint.com/helpCenter/what-should-i-do-if-i-encounter-any-problems-or-have-questions-about-my-payment-or-subscription/"
+              },
+              {
+                "question": "Where is TradeInt based and which countries' taxes are collected?",
+                "answer": "TradeInt is based in Singapore. As a company headquartered in Singapore, we adhere to the local tax regulations and collect taxes for customers located in Singapore. If you are a customer based outside of Singapore, please note that taxes are not applicable or collected by TradeInt. It is advisable to consult with your local tax authorities regarding any tax obligations related to the use of our services.",
+                "url": "https://www.tradeint.com/helpCenter/where-is-tradeint-based-and-which-countries'-taxes-are-collected/"
+              },
+              {
+                "question": "Does TradeInt price include Taxes?",
+                "answer": "Please note that our pricing does not include taxes applicable to your country. Customers are responsible for fulfilling any tax obligations imposed by their respective country's authorities.",
+                "url": "https://www.tradeint.com/helpCenter/does-tradeint-price-include-taxes/"
+              },
+              {
+                "question": "Why does TradeInt exclude taxes on the pricing?",
+                "answer": "Including taxes on our pricing can be challenging due to the varying tax rates and regulations across different countries. By not including taxes, we aim to provide transparent pricing that allows customers to understand the base cost of our products/services.",
+                "url": "https://www.tradeint.com/helpCenter/why-does-tradeint-exclude-taxes-on-the-pricing/"
+              }
+            ]
+          },
+          {
+            "category": "Tools",
+            "faqs": [
+              {
+                "question": "What is a Harmonized System Code (HS Code)?",
+                "answer": "Harmonized System Code (HS Code) is a categorization system developed and maintained by the World Customs Organization (WCO). It assigns a unique code to each commodity, used globally by customs agencies for identifying products during customs clearance, determining applicable duties and taxes, and compiling trade statistics. The HS code system was established by the World Trade Organization (WTO) to standardize product classification. It consists of a six-digit code, with countries adding additional digits for national distinctions.",
+                "url": "https://www.tradeint.com/helpCenter/what-is-a-harmonized-system-code-hs-code/"
+              },
+              {
+                "question": "What is an HS Code?",
+                "answer": "The Harmonized (Commodity Description and Coding) System, or HS code, assigns a unique six-digit number to each product for classification by customs. It consists of:\n- Unique six-digit identification code\n- Organized into 21 sections and 99 chapters\n- More than 5,000 commodity groupings\n- Defined by rules ensuring consistent global classification.",
+                "url": "https://www.tradeint.com/helpCenter/what-is-an-hs-code/"
+              },
+              {
+                "question": "How are HS Codes structured?",
+                "answer": "HS Codes are structured into six digits with additional digits for more detailed classification:\n- First two digits: Chapter (product category)\n- Next two digits: Heading (specific description)\n- Last two digits: Subheading (further details)",
+                "url": "https://www.tradeint.com/helpCenter/how-are-hs-codes-structured/"
+              },
+              {
+                "question": "What is the structure of HS code?",
+                "answer": "The HS code structure includes:\n- Chapter (first two digits): Broad product category\n- Heading (next two digits): Subcategory details\n- Subheading (last two digits): Exact product\nFor example, the HS Code 080810 represents:\n- Chapter: Edible fruits and nuts (08)\n- Heading: Apples, pears, quinces, fresh (08)\n- Subheading: Apples (10).",
+                "url": "https://www.tradeint.com/helpCenter/what-is-the-structure-of-hs-code/"
+              },
+              {
+                "question": "Why is HS code important?",
+                "answer": "Without HS codes, customs officials would need to read lengthy product descriptions, complicating tariff applications and trade processes. HS codes help importers and exporters identify products precisely, ensuring correct tariffs, taxes, licenses, and smooth shipment processing.",
+                "url": "https://www.tradeint.com/helpCenter/why-is-hs-code-important/"
+              },
+              {
+                "question": "How many digits does an HS code have?",
+                "answer": "The number of digits in an HS code depends on a country's nomenclature. For example:\n- Singapore: 8 digits\n- Thailand: 11 digits\n- Indonesia: 8 digits\n- Australia: 10 digits\n- China: 13 digits.",
+                "url": "https://www.tradeint.com/helpCenter/how-many-digits-does-an-hs-code-have/"
+              },
+              {
+                "question": "What are the variations of HS Codes in different countries?",
+                "answer": "HS Codes are known differently worldwide. Examples include:\n- India: Harmonized System of Nomenclature (HSN) Code\n- Brazil: Nomenclatura Comum do Mercosul (NCM) Code\n- Indonesia: Buku Tarif Kepabeanan Indonesia (BTKI) Code\n- USA: Harmonized Tariff Schedule (HTS) Code.",
+                "url": "https://www.tradeint.com/helpCenter/what-are-the-variations-of-hs-codes-in-different-countries/"
+              },
+              {
+                "question": "Where can I find the HS Code for a specific product?",
+                "answer": "You can find HS Codes through the World Customs Organization (WCO) Harmonized System Database, your country's customs authority, or TradeInt's tools.",
+                "url": "https://www.tradeint.com/helpCenter/where-can-i-find-the-hs-code-for-a-specific-product/"
+              },
+              {
+                "question": "Can I search for products using HS Codes?",
+                "answer": "Yes, HS Codes can be used to search for products using classification tools, retrieving trade data, and market analysis.",
+                "url": "https://www.tradeint.com/helpCenter/can-i-search-for-products-using-hs-codes/"
+              },
+              {
+                "question": "How do I determine the correct HS Code for my product?",
+                "answer": "Determining the correct HS Code involves analyzing the product's characteristics, materials, and intended use. Consult customs experts or use HS Code classification tools for guidance.",
+                "url": "https://www.tradeint.com/helpCenter/how-do-i-determine-the-correct-hs-code-for-my-product/"
+              },
+              {
+                "question": "Can the same product have different HS Codes in different countries?",
+                "answer": "Yes, while the HS Code system is standardized, country-specific modifications may cause variations. Consult the customs authority of the specific country for accurate HS Code information.",
+                "url": "https://www.tradeint.com/helpCenter/can-the-same-product-have-different-hs-codes-in-different-countries/"
+              },
+              {
+                "question": "What are the benefits of using HS Codes?",
+                "answer": "Benefits of using HS Codes include:\n- Facilitating international trade with a common classification language\n- Streamlining customs processes\n- Accurate import/export tax calculation\n- Supporting trade statistics and analysis\n- Enhancing transparency in global trade.",
+                "url": "https://www.tradeint.com/helpCenter/what-are-the-benefits-of-using-hs-codes/"
+              },
+              {
+                "question": "Can HS Codes change over time?",
+                "answer": "Yes, HS Codes are updated periodically by the World Customs Organization to reflect new products, technologies, and trade practices. Stay updated with the latest revisions to ensure compliance.",
+                "url": "https://www.tradeint.com/helpCenter/can-hs-codes-change-over-time/"
+              },
+              {
+                "question": "What if I cannot find the exact HS Code for my product?",
+                "answer": "If you can't find the exact HS Code, consider related codes or consult customs experts for assistance. TradeInt also provides support for determining the appropriate HS Code.",
+                "url": "https://www.tradeint.com/helpCenter/what-if-i-cannot-find-the-exact-hs-code-for-my-product/"
+              }
+            ]
+          },
+          {
+            "category": "Trade Data",
+            "faqs": [
+              {
+                "question": "Login",
+                "answer": "1. Click on the link below to access our website: https://tradeInt.com/login\n2. To access the features of our platform, follow these simple steps to log in using your email and password:\n3. Locate the login form with 'Email' and 'Password' fields.\n4. Enter your registered email address and password accurately.\n5. Click on the 'Login' button.\n6. If correct, access will be granted to the platform.\n7. If incorrect, double-check your email and password and try again.\n\n8. If unable to log in, use the 'Forgot Password' link for assistance: https://tradeInt.com/forget-password/\n9. To reset your password, enter your email address in the provided field. Once you have entered your email, a link will be sent to you via email. Click on the link to initiate the password reset process.",
+                "url": "https://www.tradeint.com/helpCenter/login/"
+              },
+              {
+                "question": "How to link up 2FA on our platform",
+                "answer": "To enhance the security of accessing our TradeInt platform, we will be implementing 2FA (2 Factors Authentication) via various sources, namely Google or Microsoft Authenticator, WhatsApp One-time-password, and Zalo one-time-password, which generates time-sensitive verification codes. These codes are essential for logging in alongside your password, and a new code is generated every 30 seconds for Google Authenticator.\n\nStep 1: Download and Prepare the App\n- Download the Google Authenticator App: Go to your phone’s App Store and search for “Google Authenticator.” Install the app.\n- Open the App: Launch Google Authenticator and sign in with your work-associated email, then tap the '+' icon in the bottom right corner.\n- Select QR Code Scan: Click on 'Scan a QR code.' Your app is now ready to scan the code on our website.\n\nStep 2: Logging in with Google Authenticator\n- Whenever you log in from a computer, tablet, or phone with Google Authenticator as your primary security factor, you will be prompted for a code.\n- Enter Your Credentials: Log in with your username and password.\n- Enter Your Code: When prompted to 'Enter your code,' open the Authenticator app, retrieve the code, and enter it to complete your login.\n\nOption 2: 2FA via WhatsApp OTP or Zalo OTP\n- No app is required, just fill in your work-related mobile number and request a verification code to complete 2FA.\n\nIf you have any questions or need assistance, please don’t hesitate to reach out.",
+                "url": "https://www.tradeint.com/helpCenter/how-to-link-up-2fa-on-our-platform/"
+              }
+            ]
+          },
+          {
+            "category": "TradeInt General",
+            "faqs": [
+              {
+                "question": "What is TradeInt?",
+                "answer": "TradeInt stands as a comprehensive business intelligence platform dedicated to offering detailed insights into global trade dynamics, encompassing data on suppliers, manufacturers, customs, shipping records, and import-export activities.",
+                "url": "https://www.tradeint.com/helpCenter/what-is-tradeInt/"
+              },
+              {
+                "question": "How might my business benefit from TradeInt?",
+                "answer": "TradeInt is designed to equip businesses with invaluable trade intelligence, enabling them to identify potential suppliers or buyers, track market trends, evaluate supply chain risks, and make informed decisions concerning their global trade endeavors.",
+                "url": "https://www.tradeint.com/helpCenter/how-might-my-business-benefit-from-tradeint/"
+              },
+              {
+                "question": "Can TradeInt assure the reliability of its data sources?",
+                "answer": "TradeInt meticulously sources its data from credible entities, including customs bureaus, reputable shipping companies, and authoritative data providers, ensuring a comprehensive coverage spanning trade, customs, shipping, company profiles, and financial information from over 200 countries worldwide.",
+                "url": "https://www.tradeint.com/helpCenter/can-tradeint-assure-the-reliability-of-its-data-sources/"
+              },
+              {
+                "question": "Does TradeInt assure the accuracy of its data?",
+                "answer": "While TradeInt diligently validates its data through comparisons with other reputable organizations and rigorous data cleansing processes, it's crucial to recognize that the trade data provided serves informational purposes solely. It's not intended as professional advice or a substitute for independent research and analysis. Users are advised to exercise due diligence, supplementing the data with their research to facilitate well-informed decision-making, as they bear full responsibility for their business actions based on the data sourced from the platform.",
+                "url": "https://www.tradeint.com/helpCenter/does-tradeint-assure-the-accuracy-of-its-data/"
+              },
+              {
+                "question": "How often does TradeInt update its data?",
+                "answer": "TradeInt consistently updates its data to ensure users have access to the latest information. The frequency of updates may vary based on factors like data source, availability, and relevance. As a leading trade data platform, TradeInt is committed to maintaining current and relevant data. While the exact update schedule may differ for various data types and regions, users can rely on TradeInt's dedication to regularly refresh and enhance its dataset.",
+                "url": "https://www.tradeint.com/helpCenter/how-often-does-tradeint-update-its-data/"
+              },
+              {
+                "question": "Can I request a demonstration or personalized consultation?",
+                "answer": "Certainly! Recognizing the importance of exploring our platform and its capabilities, we welcome demo and personalized consultation requests. To initiate this process, please visit our website at https://TradeInt.com/pricing/#demo. Fill out the demo request form, and our team will promptly reach out to arrange a demonstration or consultation at your convenience.",
+                "url": "https://www.tradeint.com/helpCenter/can-i-request-a-demonstration-or-personalized-consultation/"
+              },
+              {
+                "question": "Does TradeInt offer monthly subscription plans?",
+                "answer": "No, TradeInt exclusively offers subscription options on an annual basis. This deliberate approach aims to cultivate long-term partnerships and support continuous trade digitalization initiatives.",
+                "url": "https://www.tradeint.com/helpCenter/does-tradeint-offer-monthly-subscription-plans/"
+              },
+              {
+                "question": "How do I get a free trial of TradeInt?",
+                "answer": "Unfortunately, we do not provide a free trial option. However, we do offer a mock search feature at https://TradeInt.com/pricing/#demo, although it does not encompass the full functionality of the platform. For a more comprehensive understanding of TradeInt, we encourage you to request a demo or personalized consultation on our website at https://TradeInt.com/pricing/#demo.",
+                "url": "https://www.tradeint.com/helpCenter/how-do-i-get-a-free-trial-of-tradeint/"
+              },
+              {
+                "question": "How can I access TradeInt's services?",
+                "answer": "Accessing TradeInt's services is straightforward. Simply visit our website and sign up for an account. We offer various subscription plans tailored to your specific requirements, including Standard, Essential, and Premium, granting access to our comprehensive trade intelligence platform.",
+                "url": "https://www.tradeint.com/helpCenter/how-can-i-access-tradeint's-services/"
+              },
+              {
+                "question": "After subscribing to TradeInt, how can I access the platform?",
+                "answer": "After subscribing, accessing TradeInt is convenient. Visit the login page at https://TradeInt.com/login/ and click on the Login icon located on the right side of the page to access the platform.",
+                "url": "https://www.tradeint.com/helpCenter/after-subscribing-to-tradeint,-how-can-i-access-the-platform/"
+              },
+              {
+                "question": "Why was TradeInt created?",
+                "answer": "TradeInt was developed with the aim of furnishing business intelligence and insights pertinent to global trade dynamics. Through the collection and analysis of extensive trade data, TradeInt endeavors to equip businesses with the knowledge necessary for making well-informed decisions, identifying potential suppliers or partners, tracking market trends, and mitigating risks within their supply chains.",
+                "url": "https://www.tradeint.com/helpCenter/why-was-tradeint-created/"
+              },
+              {
+                "question": "What types of data does TradeInt provide?",
+                "answer": "TradeInt offers a comprehensive array of data encompassing customs information, import and export records, shipping data, bill of lading details, and mirror data. This wealth of data is accessible and analyzable, enabling users to gain valuable insights into global trade activities.\nImport and Export Data: TradeInt supplies in-depth details regarding both imports and exports, inclusive of shipment records, bill of lading specifics, customs data, and trade statistics. This data facilitates the tracking and analysis of global trade flows.\nSupplier and Buyer Information: TradeInt provides insights into suppliers and buyers on a global scale. Users can delve into company profiles, contact details, shipment histories, and trade associations to discern potential business partners and evaluate their credibility.\nTrade Reports: TradeInt generates tailored reports concerning specific industries, products, or countries. These reports offer comprehensive analysis, market insights, and trade projections to aid strategic decision-making.\nMarket Insights: TradeInt enables users to access overview analyses encompassing data sources, target markets, HS codes, trade trends, and more, facilitating a deeper understanding of market dynamics.",
+                "url": "https://www.tradeint.com/helpCenter/what-types-of-data-does-tradeint-provide/"
+              }
+            ]
+          }
+          
+          
+          
+          
+          
+        ]
+      }
+    ]
+  }
+  

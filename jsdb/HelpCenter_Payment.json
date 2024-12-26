@@ -1,0 +1,45 @@
+{
+  "category": "Payment",
+  "faqs": [
+    {
+      "question": "What payment methods are accepted for TradeInt subscriptions?",
+      "answer": "Currently, TradeInt accepts payments made through Bank Transfer, Paypal, and Stripe.",
+      "url": "https://www.tradeint.com/helpCenter/what-payment-methods-are-accepted-for-tradeint-subscriptions/"
+    },
+    {
+      "question": "Are refunds available for TradeInt subscriptions?",
+      "answer": "TradeInt follows a no-refund policy once payment has been made. As our products are classified as intangible or virtual goods/services, we do not offer refunds for one-time transaction products. We encourage customers to carefully assess their needs and ensure that TradeInt is the right fit before making a payment.",
+      "url": "https://www.tradeint.com/helpCenter/are-refunds-available-for-tradeint-subscriptions/"
+    },
+    {
+      "question": "When will I receive access to my TradeInt subscription after making a payment?",
+      "answer": "Once your payment has been made and confirmed, access to your TradeInt subscription will be granted within 24 hours. You will receive a confirmation email containing all the necessary details. This email will serve as confirmation of delivery and the commencement of your subscription.",
+      "url": "https://www.tradeint.com/helpCenter/when-will-i-receive-access-to-my-tradeint-subscription-after-making-a-payment/"
+    },
+    {
+      "question": "How does TradeInt provide information about its products?",
+      "answer": "TradeInt utilizes webpage displays, online communication, and other means of communication to provide customers with comprehensive information about our products. It is the customer's responsibility to fully understand the product and assess its suitability for their needs. If you have any questions or face significant issues, we recommend contacting our customer service and sales team before making a payment. We are committed to assisting customers in addressing any concerns and providing proactive support to resolve related issues.",
+      "url": "https://www.tradeint.com/helpCenter/how-does-tradeint-provide-information-about-its-products/"
+    },
+    {
+      "question": "What should I do if I encounter any problems or have questions about my payment or subscription?",
+      "answer": "If you encounter any problems with your payment or have questions regarding your TradeInt subscription, please reach out to our customer service team. We are here to assist you and provide the necessary support. You can contact us through email or other designated communication channels, and we will promptly address your concerns.",
+      "url": "https://www.tradeint.com/helpCenter/what-should-i-do-if-i-encounter-any-problems-or-have-questions-about-my-payment-or-subscription/"
+    },
+    {
+      "question": "Where is TradeInt based and which countries' taxes are collected?",
+      "answer": "TradeInt is based in Singapore. As a company headquartered in Singapore, we adhere to the local tax regulations and collect taxes for customers located in Singapore. If you are a customer based outside of Singapore, please note that taxes are not applicable or collected by TradeInt. It is advisable to consult with your local tax authorities regarding any tax obligations related to the use of our services.",
+      "url": "https://www.tradeint.com/helpCenter/where-is-tradeint-based-and-which-countries'-taxes-are-collected/"
+    },
+    {
+      "question": "Does TradeInt price include Taxes?",
+      "answer": "Please note that our pricing does not include taxes applicable to your country. Customers are responsible for fulfilling any tax obligations imposed by their respective country's authorities.",
+      "url": "https://www.tradeint.com/helpCenter/does-tradeint-price-include-taxes/"
+    },
+    {
+      "question": "Why does TradeInt exclude taxes on the pricing?",
+      "answer": "Including taxes on our pricing can be challenging due to the varying tax rates and regulations across different countries. By not including taxes, we aim to provide transparent pricing that allows customers to understand the base cost of our products/services.",
+      "url": "https://www.tradeint.com/helpCenter/why-does-tradeint-exclude-taxes-on-the-pricing/"
+    }
+  ]
+}

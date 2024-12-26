@@ -1,0 +1,45 @@
+{
+  "category": "Privacy Policy",
+  "sections": [
+    {
+      "title": "Introduction",
+      "content": "We take our obligations under the Singapore Personal Data Protection Act 2012 seriously. This Privacy Policy explains how we collect, use, disclose, and process your personal data."
+    },
+    {
+      "title": "Personal Data Collection",
+      "content": "We may collect personal data when you use our contact page, error logging tools, or through details of your visits to our Website."
+    },
+    {
+      "title": "Cookies",
+      "content": "Cookies are used to enhance user experience. You can accept or decline cookies through browser settings, but disabling cookies may limit functionality."
+    },
+    {
+      "title": "Use of Personal Data",
+      "content": "Personal data is used for managing accounts, contacting users, administering the Website, personalizing interactions, conducting research, and legal compliance."
+    },
+    {
+      "title": "Disclosure of Information",
+      "content": "Personal data may be disclosed to third parties for outlined purposes. We do not sell or rent personal data."
+    },
+    {
+      "title": "Transfer of Personal Data",
+      "content": "Personal data may be transferred, processed, and stored outside of Singapore under protective agreements."
+    },
+    {
+      "title": "Updating Information",
+      "content": "Ensure the accuracy of submitted personal data and notify us of any changes."
+    },
+    {
+      "title": "Your Rights",
+      "content": "You may withdraw consent, request access to, or correct your personal data held by us, subject to a reasonable fee."
+    },
+    {
+      "title": "Changes to Privacy Policy",
+      "content": "We reserve the right to amend this Privacy Policy at any time. Continued use of our Website signifies acceptance of updates."
+    },
+    {
+      "title": "Further Information",
+      "content": "For inquiries, contact our Data Protection Officer at admin@tradeint.com."
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+    "solutions": [
+      {
+        "title": "Importer",
+        "features": {
+          "Easy Supplier Discovery": {
+            "description": [
+              "Discover businesses worldwide anytime, anywhere.",
+              "Access company data online, shortlist active exporters, track competitors' shipments, and more.",
+              "Create a qualified list of potential suppliers globally.",
+              "Instantly search companies by location, trade information, and business partners through our dashboard."
+            ],
+            "url": "https://www.tradeint.com/solution/importer/easy-supplier-discovery/"
+          },
+          "Monitor Competitors' Trade": {
+            "description": [
+              "View trade activities of competitors, trading partners, and prospects.",
+              "Assess market strategies, understand market share, and analyze business performance."
+            ],
+            "url": "https://www.tradeint.com/solution/importer/monitor-competitors-trade/"
+          },
+          "Get Supplier Activity": {
+            "description": [
+              "Stay informed about your supplier's every trade activity.",
+              "Access crucial data to negotiate better prices, avoid complexities, and stay updated on your supplier's business activities."
+            ],
+            "url": "https://www.tradeint.com/solution/importer/get-supplier-activity/"
+          }
+        }
+      },
+      {
+        "title": "Business",
+        "features": {
+          "Prospect Identification": {
+            "description": [
+              "Analyze the trade performance of companies to pinpoint potential prospects.",
+              "Gain insights into promising industries conducive to business growth.",
+              "Identify emerging opportunities, conduct evaluations, and negotiate better business deals.",
+              "Obtain market intelligence pertaining to global trade dynamics."
+            ],
+            "url": "https://www.tradeint.com/solution/business/prospect-identification/"
+          },
+          "Market Intelligence": {
+            "description": [
+              "Establish benchmarks, glean industry intelligence, and track market trends.",
+              "Compare prices of different commodities and monitor trade patterns in the international market."
+            ],
+            "url": "https://www.tradeint.com/solution/business/market-intelligence/"
+          },
+          "Competitive Assessment": {
+            "description": [
+              "Generate insightful reports using import-export statistics.",
+              "Access comprehensive insights and industry reports for thorough research.",
+              "Enhance competitive analysis and optimize business performance.",
+              "Identify potential leads through bilateral trade statistics."
+            ],
+            "url": "https://www.tradeint.com/solution/business/competitive-assessment/"
+          }
+        }
+      },
+      {
+        "title": "Sales & Marketing",
+        "features": {
+          "Discover Sales Leads": {
+            "description": [
+              "Monitor existing prospects for sustained business success.",
+              "Identify potential leads based on imported commodities.",
+              "Leverage global trade statistics to refine business strategies."
+            ],
+            "url": "https://www.tradeint.com/solution/sales/discover-sales-leads/"
+          },
+          "Enhance Sales Performance": {
+            "description": [
+              "Conduct comparative analysis between current and historical pricing data.",
+              "Align pricing with prevailing trade market trends."
+            ],
+            "url": "https://www.tradeint.com/solution/sales/enhance-sales-performance/"
+          },
+          "Optimize Pricing Strategy": {
+            "description": [
+              "Integrate insights into all facets of marketing operations.",
+              "Monitor trends within specific commodities, markets, or regions."
+            ],
+            "url": "https://www.tradeint.com/solution/sales/optimize-pricing-strategy/"
+          }
+        }
+      },
+      {
+        "title": "Logistics",
+        "features": {
+          "Prospect New Opportunities": {
+            "description": [
+              "Access, scrutinize, and target emerging markets.",
+              "Identify business avenues using company revenues, contact information, and trade data.",
+              "Analyze trade dynamics related to clientele and competitors."
+            ],
+            "url": "https://www.tradeint.com/solution/logistics/prospect-new-opportunities/"
+          },
+          "Cultivate Business Relationships": {
+            "description": [
+              "Discern and compare operations of key industry contenders.",
+              "Employ AI-driven tools to analyze market share based on shipment volume and other metrics."
+            ],
+            "url": "https://www.tradeint.com/solution/logistics/cultivate-business-relationships/"
+          },
+          "Assess Market Share": {
+            "description": [
+              "Leverage trade data insights to strategize and optimize business operations."
+            ],
+            "url": "https://www.tradeint.com/solution/logistics/assess-market-share/"
+          }
+        }
+      },
+      {
+        "title": "Financial Institution",
+        "features": {
+          "description": [
+            "Mitigate risk by monitoring trading activities.",
+            "Identify potential sources aligning with business criteria.",
+            "Examine extensive trade data and financial insights.",
+            "Leverage bilateral trade data and market intelligence solutions."
+          ],
+          "url": "https://www.tradeint.com/solution/financial-institution/"
+        }
+      },
+      {
+        "title": "Consulting Firm",
+        "features": {
+          "description": [
+            "Achieve quantifiable outcomes for sustainable business growth.",
+            "Leverage trade data for strategic decision-making.",
+            "Gain deeper market insights and broaden perspectives."
+          ],
+          "url": "https://www.tradeint.com/solution/consulting-firm/"
+        }
+      },
+      {
+        "title": "Insurance Company",
+        "features": {
+          "Insurance Actuaries": {
+            "description": [
+              "Analyze financial instruments for insurance entities.",
+              "Enhance investment decision-making.",
+              "Identify market trends to propel business strategies."
+            ],
+            "url": "https://www.tradeint.com/solution/insurance-company/actuaries/"
+          },
+          "Investment Managers": {
+            "description": [
+              "Drive product innovation.",
+              "Maintain a competitive edge in the marketplace."
+            ],
+            "url": "https://www.tradeint.com/solution/insurance-company/investment-managers/"
+          },
+          "Risk Controllers": {
+            "description": [
+              "Assess global import-export statistics and market share.",
+              "Utilize shipment data for product insights."
+            ],
+            "url": "https://www.tradeint.com/solution/insurance-company/risk-controllers/"
+          }
+        }
+      },
+      {
+        "title": "Law Firm",
+        "features": {
+          "BD & Marketing Managers": {
+            "description": [
+              "Track market dynamics with trade data.",
+              "Receive timely updates on significant developments.",
+              "Leverage trade insights to evaluate reliability and scrutinize transactions."
+            ],
+            "url": "https://www.tradeint.com/solution/law-firm/bd-marketing-managers/"
+          },
+          "Mergers & Acquisitions Professionals": {
+            "description": [
+              "Offer robust recommendations to organizational leadership."
+            ],
+            "url": "https://www.tradeint.com/solution/law-firm/mergers-acquisitions/"
+          },
+          "Conflicts & Dispute Experts": {
+            "description": [
+              "Analyze trade data to support conflict resolution."
+            ],
+            "url": "https://www.tradeint.com/solution/law-firm/conflicts-dispute-experts/"
+          }
+        }
+      },
+      {
+        "title": "Government Agency",
+        "features": {
+          "Facilitate Trade Efficiency": {
+            "description": [
+              "Access immediate trade insights.",
+              "Identify key industries for strategic focus.",
+              "Scrutinize shipment records prior to border crossings."
+            ],
+            "url": "https://www.tradeint.com/solution/government-agency/facilitate-trade-efficiency/"
+          },
+          "Monitor Trade Activities": {
+            "description": [
+              "Use global trade statistics to analyze trends.",
+              "Recoup lost revenue with precise data analysis."
+            ],
+            "url": "https://www.tradeint.com/solution/government-agency/monitor-trade-activities/"
+          },
+          "Enhance Tariff Revenues": {
+            "description": [
+              "Optimize tariff revenue collection at the shipment or company level."
+            ],
+            "url": "https://www.tradeint.com/solution/government-agency/enhance-tariff-revenues/"
+          }
+        }
+      },
+      {
+        "title": "Academic Institution",
+        "features": {
+          "Research Presentation": {
+            "description": [
+              "Engage target audiences effectively.",
+              "Ensure data accuracy in trade market analysis."
+            ],
+            "url": "https://www.tradeint.com/solution/academic-institution/research-presentation/"
+          },
+          "Data Integrity": {
+            "description": [
+              "Facilitate in-depth research endeavors."
+            ],
+            "url": "https://www.tradeint.com/solution/academic-institution/data-integrity/"
+          },
+          "Market Analysis": {
+            "description": [
+              "Analyze trade data for better academic understanding."
+            ],
+            "url": "https://www.tradeint.com/solution/academic-institution/market-analysis/"
+          }
+        }
+      }
+    ]
+  }
+  

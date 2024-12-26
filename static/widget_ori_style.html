@@ -1,0 +1,79 @@
+<div id="faq-chatbot">
+    <h2>FAQ ChatBot</h2>
+    <p>Ask any question, and our ChatBot will try to answer!</p>
+    <input type="text" id="user-question" placeholder="Ask a question..." />
+    <button onclick="askFAQ()">Ask</button>
+    <div id="faq-answer" style="margin-top: 10px;"></div>
+  </div>
+  
+  <script>
+    async function askFAQ() {
+      const question = document.getElementById('user-question').value.trim();
+  
+      if (!question) {
+        document.getElementById('faq-answer').innerText = "Please enter a question.";
+        return;
+      }
+  
+      try {
+        const response = await fetch(`http://localhost:8000/ask/?question=${encodeURIComponent(question)}`);
+  
+        if (!response.ok) {
+          throw new Error("Failed to fetch data from the server.");
+        }
+  
+        const data = await response.json();
+        document.getElementById('faq-answer').innerText = data.answer
+          ? data.answer
+          : "Sorry, I don't have an answer for that question.";
+      } catch (error) {
+        console.error("Error:", error);
+        document.getElementById('faq-answer').innerText = "Error: Unable to fetch answer. Please try again later.";
+      }
+    }
+  </script>
+  
+  <style>
+    #faq-chatbot {
+      font-family: Arial, sans-serif;
+      max-width: 400px;
+      margin: 20px auto;
+      padding: 15px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      text-align: center;
+    }
+  
+    #faq-chatbot h2 {
+      color: #333;
+    }
+  
+    #faq-chatbot input {
+      width: 80%;
+      padding: 10px;
+      margin-bottom: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+  
+    #faq-chatbot button {
+      padding: 10px 15px;
+      background-color: #007bff;
+      color: #fff;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 14px;
+    }
+  
+    #faq-chatbot button:hover {
+      background-color: #0056b3;
+    }
+  
+    #faq-chatbot #faq-answer {
+      margin-top: 15px;
+      font-size: 16px;
+      color: #555;
+    }
+  </style>

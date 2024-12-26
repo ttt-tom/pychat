@@ -1,0 +1,65 @@
+{
+  "category": "TradeInt General",
+  "faqs": [
+    {
+      "question": "What is TradeInt?",
+      "answer": "TradeInt stands as a comprehensive business intelligence platform dedicated to offering detailed insights into global trade dynamics, encompassing data on suppliers, manufacturers, customs, shipping records, and import-export activities.",
+      "url": "https://www.tradeint.com/helpCenter/what-is-tradeInt/"
+    },
+    {
+      "question": "How might my business benefit from TradeInt?",
+      "answer": "TradeInt is designed to equip businesses with invaluable trade intelligence, enabling them to identify potential suppliers or buyers, track market trends, evaluate supply chain risks, and make informed decisions concerning their global trade endeavors.",
+      "url": "https://www.tradeint.com/helpCenter/how-might-my-business-benefit-from-tradeint/"
+    },
+    {
+      "question": "Can TradeInt assure the reliability of its data sources?",
+      "answer": "TradeInt meticulously sources its data from credible entities, including customs bureaus, reputable shipping companies, and authoritative data providers, ensuring a comprehensive coverage spanning trade, customs, shipping, company profiles, and financial information from over 200 countries worldwide.",
+      "url": "https://www.tradeint.com/helpCenter/can-tradeint-assure-the-reliability-of-its-data-sources/"
+    },
+    {
+      "question": "Does TradeInt assure the accuracy of its data?",
+      "answer": "While TradeInt diligently validates its data through comparisons with other reputable organizations and rigorous data cleansing processes, it's crucial to recognize that the trade data provided serves informational purposes solely. It's not intended as professional advice or a substitute for independent research and analysis. Users are advised to exercise due diligence, supplementing the data with their research to facilitate well-informed decision-making, as they bear full responsibility for their business actions based on the data sourced from the platform.",
+      "url": "https://www.tradeint.com/helpCenter/does-tradeint-assure-the-accuracy-of-its-data/"
+    },
+    {
+      "question": "How often does TradeInt update its data?",
+      "answer": "TradeInt consistently updates its data to ensure users have access to the latest information. The frequency of updates may vary based on factors like data source, availability, and relevance. As a leading trade data platform, TradeInt is committed to maintaining current and relevant data. While the exact update schedule may differ for various data types and regions, users can rely on TradeInt's dedication to regularly refresh and enhance its dataset.",
+      "url": "https://www.tradeint.com/helpCenter/how-often-does-tradeint-update-its-data/"
+    },
+    {
+      "question": "Can I request a demonstration or personalized consultation?",
+      "answer": "Certainly! Recognizing the importance of exploring our platform and its capabilities, we welcome demo and personalized consultation requests. To initiate this process, please visit our website at https://TradeInt.com/pricing/#demo. Fill out the demo request form, and our team will promptly reach out to arrange a demonstration or consultation at your convenience.",
+      "url": "https://www.tradeint.com/helpCenter/can-i-request-a-demonstration-or-personalized-consultation/"
+    },
+    {
+      "question": "Does TradeInt offer monthly subscription plans?",
+      "answer": "No, TradeInt exclusively offers subscription options on an annual basis. This deliberate approach aims to cultivate long-term partnerships and support continuous trade digitalization initiatives.",
+      "url": "https://www.tradeint.com/helpCenter/does-tradeint-offer-monthly-subscription-plans/"
+    },
+    {
+      "question": "How do I get a free trial of TradeInt?",
+      "answer": "Unfortunately, we do not provide a free trial option. However, we do offer a mock search feature at https://TradeInt.com/pricing/#demo, although it does not encompass the full functionality of the platform. For a more comprehensive understanding of TradeInt, we encourage you to request a demo or personalized consultation on our website at https://TradeInt.com/pricing/#demo.",
+      "url": "https://www.tradeint.com/helpCenter/how-do-i-get-a-free-trial-of-tradeint/"
+    },
+    {
+      "question": "How can I access TradeInt's services?",
+      "answer": "Accessing TradeInt's services is straightforward. Simply visit our website and sign up for an account. We offer various subscription plans tailored to your specific requirements, including Standard, Essential, and Premium, granting access to our comprehensive trade intelligence platform.",
+      "url": "https://www.tradeint.com/helpCenter/how-can-i-access-tradeint's-services/"
+    },
+    {
+      "question": "After subscribing to TradeInt, how can I access the platform?",
+      "answer": "After subscribing, accessing TradeInt is convenient. Visit the login page at https://TradeInt.com/login/ and click on the Login icon located on the right side of the page to access the platform.",
+      "url": "https://www.tradeint.com/helpCenter/after-subscribing-to-tradeint,-how-can-i-access-the-platform/"
+    },
+    {
+      "question": "Why was TradeInt created?",
+      "answer": "TradeInt was developed with the aim of furnishing business intelligence and insights pertinent to global trade dynamics. Through the collection and analysis of extensive trade data, TradeInt endeavors to equip businesses with the knowledge necessary for making well-informed decisions, identifying potential suppliers or partners, tracking market trends, and mitigating risks within their supply chains.",
+      "url": "https://www.tradeint.com/helpCenter/why-was-tradeint-created/"
+    },
+    {
+      "question": "What types of data does TradeInt provide?",
+      "answer": "TradeInt offers a comprehensive array of data encompassing customs information, import and export records, shipping data, bill of lading details, and mirror data. This wealth of data is accessible and analyzable, enabling users to gain valuable insights into global trade activities.\nImport and Export Data: TradeInt supplies in-depth details regarding both imports and exports, inclusive of shipment records, bill of lading specifics, customs data, and trade statistics. This data facilitates the tracking and analysis of global trade flows.\nSupplier and Buyer Information: TradeInt provides insights into suppliers and buyers on a global scale. Users can delve into company profiles, contact details, shipment histories, and trade associations to discern potential business partners and evaluate their credibility.\nTrade Reports: TradeInt generates tailored reports concerning specific industries, products, or countries. These reports offer comprehensive analysis, market insights, and trade projections to aid strategic decision-making.\nMarket Insights: TradeInt enables users to access overview analyses encompassing data sources, target markets, HS codes, trade trends, and more, facilitating a deeper understanding of market dynamics.",
+      "url": "https://www.tradeint.com/helpCenter/what-types-of-data-does-tradeint-provide/"
+    }
+  ]
+}
