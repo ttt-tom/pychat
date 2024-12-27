@@ -1,0 +1,30 @@
+{
+  "category": "Contact Us",
+  "faqs": [
+    {
+      "question": "How can I contact TradeInt?",
+      "answer": "If you need to get in touch with TradeInt, we are here to assist you. Please refer to the following contact information:\n\n- **Email**: You can reach us by sending an email to sales@TradeInt, and our team will respond to your inquiry as soon as possible.\n- **Online Contact Form**: Visit our website at [TradeInt Contact Form](https://TradeInt.com/contact-us/) and fill out the online contact form. Provide your name, email address, subject, and message, and we will get back to you promptly.\n- **Live Chat Support**: On our website, you will find a live chat option available during business hours. Click on the chat icon, and our team will assist you in real-time.\n- **Phone**: If you prefer speaking with us directly, you can contact our sales team via phone at +65 8223 9976. Please check our website for the most up-to-date contact numbers based on your location.\n- **Whatsapp**: If you prefer messaging, you can Whatsapp our sales team directly.",
+      "url": "https://www.tradeint.com/helpCenter/how-can-i-contact-tradeint/"
+    },
+    {
+      "question": "What are the operating hours for TradeInt's customer support?",
+      "answer": "Our customer support team is available to assist you during regular business hours (GMT+8), Monday through Friday. The exact operating hours may vary based on your region. Please refer to our TradeInt website or contact us directly for specific information.",
+      "url": "https://www.tradeint.com/helpCenter/what-are-the-operating-hours-for-tradeint's-customer-support/"
+    },
+    {
+      "question": "How long does it take to receive a response to my inquiry?",
+      "answer": "At TradeInt, we strive to provide timely responses to all inquiries. Our team is dedicated to addressing your questions and concerns promptly. While response times may vary based on the volume of inquiries, we make every effort to reply to your messages as soon as possible, typically within one business day.",
+      "url": "https://www.tradeint.com/helpCenter/how-long-does-it-take-to-receive-a-response-to-my-inquiry/"
+    },
+    {
+      "question": "Are there resources available for self-help and support?",
+      "answer": "Yes, TradeInt provides resources to help you navigate and maximize the benefits of our platform. We offer user guides, tutorials, and frequently asked questions (FAQs) on our website's help centre. These resources can assist you in understanding various features and functionalities. If you need further assistance, our support team is always available to provide guidance.",
+      "url": "https://www.tradeint.com/helpCenter/are-there-resources-available-for-self-help-and-support/"
+    },
+    {
+      "question": "I have a specific question about trade data or data analysis. Can you help?",
+      "answer": "Certainly! TradeInt specializes in trade data and analysis. If you have specific questions or require assistance with trade data interpretation, market insights, or data analysis techniques, our team of experts is ready to support you. Contact us through the available channels mentioned above, and we will be glad to assist you.",
+      "url": "https://www.tradeint.com/helpCenter/i-have-a-specific-question-about-trade-data-or-data-analysis.-can-you-help/"
+    }
+  ]
+}

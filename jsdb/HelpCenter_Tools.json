@@ -1,0 +1,75 @@
+{
+  "category": "Tools",
+  "faqs": [
+    {
+      "question": "What is a Harmonized System Code (HS Code)?",
+      "answer": "Harmonized System Code (HS Code) is a categorization system developed and maintained by the World Customs Organization (WCO). It assigns a unique code to each commodity, used globally by customs agencies for identifying products during customs clearance, determining applicable duties and taxes, and compiling trade statistics. The HS code system was established by the World Trade Organization (WTO) to standardize product classification. It consists of a six-digit code, with countries adding additional digits for national distinctions.",
+      "url": "https://www.tradeint.com/helpCenter/what-is-a-harmonized-system-code-hs-code/"
+    },
+    {
+      "question": "What is an HS Code?",
+      "answer": "The Harmonized (Commodity Description and Coding) System, or HS code, assigns a unique six-digit number to each product for classification by customs. It consists of:\n- Unique six-digit identification code\n- Organized into 21 sections and 99 chapters\n- More than 5,000 commodity groupings\n- Defined by rules ensuring consistent global classification.",
+      "url": "https://www.tradeint.com/helpCenter/what-is-an-hs-code/"
+    },
+    {
+      "question": "How are HS Codes structured?",
+      "answer": "HS Codes are structured into six digits with additional digits for more detailed classification:\n- First two digits: Chapter (product category)\n- Next two digits: Heading (specific description)\n- Last two digits: Subheading (further details)",
+      "url": "https://www.tradeint.com/helpCenter/how-are-hs-codes-structured/"
+    },
+    {
+      "question": "What is the structure of HS code?",
+      "answer": "The HS code structure includes:\n- Chapter (first two digits): Broad product category\n- Heading (next two digits): Subcategory details\n- Subheading (last two digits): Exact product\nFor example, the HS Code 080810 represents:\n- Chapter: Edible fruits and nuts (08)\n- Heading: Apples, pears, quinces, fresh (08)\n- Subheading: Apples (10).",
+      "url": "https://www.tradeint.com/helpCenter/what-is-the-structure-of-hs-code/"
+    },
+    {
+      "question": "Why is HS code important?",
+      "answer": "Without HS codes, customs officials would need to read lengthy product descriptions, complicating tariff applications and trade processes. HS codes help importers and exporters identify products precisely, ensuring correct tariffs, taxes, licenses, and smooth shipment processing.",
+      "url": "https://www.tradeint.com/helpCenter/why-is-hs-code-important/"
+    },
+    {
+      "question": "How many digits does an HS code have?",
+      "answer": "The number of digits in an HS code depends on a country's nomenclature. For example:\n- Singapore: 8 digits\n- Thailand: 11 digits\n- Indonesia: 8 digits\n- Australia: 10 digits\n- China: 13 digits.",
+      "url": "https://www.tradeint.com/helpCenter/how-many-digits-does-an-hs-code-have/"
+    },
+    {
+      "question": "What are the variations of HS Codes in different countries?",
+      "answer": "HS Codes are known differently worldwide. Examples include:\n- India: Harmonized System of Nomenclature (HSN) Code\n- Brazil: Nomenclatura Comum do Mercosul (NCM) Code\n- Indonesia: Buku Tarif Kepabeanan Indonesia (BTKI) Code\n- USA: Harmonized Tariff Schedule (HTS) Code.",
+      "url": "https://www.tradeint.com/helpCenter/what-are-the-variations-of-hs-codes-in-different-countries/"
+    },
+    {
+      "question": "Where can I find the HS Code for a specific product?",
+      "answer": "You can find HS Codes through the World Customs Organization (WCO) Harmonized System Database, your country's customs authority, or TradeInt's tools.",
+      "url": "https://www.tradeint.com/helpCenter/where-can-i-find-the-hs-code-for-a-specific-product/"
+    },
+    {
+      "question": "Can I search for products using HS Codes?",
+      "answer": "Yes, HS Codes can be used to search for products using classification tools, retrieving trade data, and market analysis.",
+      "url": "https://www.tradeint.com/helpCenter/can-i-search-for-products-using-hs-codes/"
+    },
+    {
+      "question": "How do I determine the correct HS Code for my product?",
+      "answer": "Determining the correct HS Code involves analyzing the product's characteristics, materials, and intended use. Consult customs experts or use HS Code classification tools for guidance.",
+      "url": "https://www.tradeint.com/helpCenter/how-do-i-determine-the-correct-hs-code-for-my-product/"
+    },
+    {
+      "question": "Can the same product have different HS Codes in different countries?",
+      "answer": "Yes, while the HS Code system is standardized, country-specific modifications may cause variations. Consult the customs authority of the specific country for accurate HS Code information.",
+      "url": "https://www.tradeint.com/helpCenter/can-the-same-product-have-different-hs-codes-in-different-countries/"
+    },
+    {
+      "question": "What are the benefits of using HS Codes?",
+      "answer": "Benefits of using HS Codes include:\n- Facilitating international trade with a common classification language\n- Streamlining customs processes\n- Accurate import/export tax calculation\n- Supporting trade statistics and analysis\n- Enhancing transparency in global trade.",
+      "url": "https://www.tradeint.com/helpCenter/what-are-the-benefits-of-using-hs-codes/"
+    },
+    {
+      "question": "Can HS Codes change over time?",
+      "answer": "Yes, HS Codes are updated periodically by the World Customs Organization to reflect new products, technologies, and trade practices. Stay updated with the latest revisions to ensure compliance.",
+      "url": "https://www.tradeint.com/helpCenter/can-hs-codes-change-over-time/"
+    },
+    {
+      "question": "What if I cannot find the exact HS Code for my product?",
+      "answer": "If you can't find the exact HS Code, consider related codes or consult customs experts for assistance. TradeInt also provides support for determining the appropriate HS Code.",
+      "url": "https://www.tradeint.com/helpCenter/what-if-i-cannot-find-the-exact-hs-code-for-my-product/"
+    }
+  ]
+}

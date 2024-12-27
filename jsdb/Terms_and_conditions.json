@@ -1,0 +1,61 @@
+{
+  "category": "Terms & Conditions",
+  "sections": [
+    {
+      "title": "General",
+      "content": "Subscribers are granted access to and utilization of the Services exclusively for internal business operations, in accordance with the terms of the Agreement. This encompasses enabling Users to: (a) View, copy, print, and/or download the Content within the guidelines outlined by the terms of Service/Agreement. (b) Generate derivative works from the Content or through its utilization, and share such derivative works with Users. All Services obtained by Subscribers are provided by TradeInt or its licensors and are subject to the terms of Service/Agreement, including this Policy."
+    },
+    {
+      "title": "Changes",
+      "content": "Throughout the Term, TradeInt reserves the right to amend or terminate the Services, which may involve adding, removing, or modifying features or functionality, as necessary to reflect changes in applicable law, regulations, technology, or data availability. Subscriber will be informed of any significant changes affecting their access to or use of the Services or discontinuation of any Services."
+    },
+    {
+      "title": "Rights",
+      "content": "TradeInt hereby extends to Subscriber a revocable, non-exclusive, and non-transferable limited right to utilize the Services solely for their internal business operations during the Term, including enabling Users to: (a) View, copy, print, and/or download the Content within the guidelines outlined by the terms of Service/Agreement. (b) Generate derivative works from the Content or through its utilization, and share such derivative works with Users. TradeInt and its licensors retain all ownership and intellectual property rights to the Services, including any derivative works created by Subscriber, or anything developed or provided by TradeInt under the Agreement. Subscriber is not granted any intellectual property rights in the Services."
+    },
+    {
+      "title": "Limitations and Restrictions on Use",
+      "content": "By accessing or utilizing TradeInt's services, you agree to adhere to the following limitations and restrictions on use: (a) Program and Service Markings: You are prohibited from altering or removing any program or service markings, trademarks, or proprietary notices. (b) Prohibited Activities: Automated data collection activities without permission are strictly prohibited. (c) Intellectual Property Rights: TradeInt content and trademarks are protected under copyright and trademark laws, and unauthorized use may result in legal action. (d) Access Restrictions: Accessing restricted areas or circumventing restrictions is not allowed. (e) Rate Limiting: Adhere to fair usage and rate limits set by the website. (f) Non-Commercial Use: Data collected may not be used for commercial purposes. (g) Indemnification: Users agree to indemnify TradeInt for unauthorized use. (h) Modification and Reverse Engineering: Disassembly, reproduction, or reverse engineering is prohibited. (i) Framing and Mirroring: Framing or mirroring TradeInt services is not allowed. (j) Benchmarking and Testing: Unauthorized testing or scanning of services is prohibited. (k) Service Operation: Denial of service attacks or interference with proper operations is not permitted. (l) Competitive Products and Services: Developing competing services is prohibited. (m) Account Usage: Account credentials must not be shared or transferred. (n) Unlawful Use: Accessing services for unlawful purposes is strictly forbidden. (o) Termination of Access: Violation of terms may result in access termination. (p) Modification of Terms: Terms may be updated, and users are responsible for reviewing updates."
+    },
+    {
+      "title": "No Refund Policy",
+      "content": "All subscriptions and services are issued on a license basis and are non-refundable. By subscribing to or utilizing TradeInt's services, you acknowledge and agree that no refunds will be issued for any reason."
+    },
+    {
+      "title": "Disclaimers",
+      "content": "TradeInt does not guarantee the availability, provision, quality, accuracy, integrity, or reliability of the services. Services are provided 'as is,' and warranties are disclaimed to the fullest extent permitted by law."
+    },
+    {
+      "title": "Limitation of Liability",
+      "content": "TradeInt, its affiliates, and licensors shall not be liable for indirect, incidental, consequential, or special damages, or any loss of revenue, profits, data, goodwill, or reputation. Aggregate liability shall not exceed amounts paid by the subscriber in the last twelve months."
+    },
+    {
+      "title": "Indemnification",
+      "content": "Subscribers agree to indemnify TradeInt against claims arising from breaches of the Agreement, violations of applicable law, or disputes between users and TradeInt."
+    },
+    {
+      "title": "Confidentiality",
+      "content": "Both parties agree to maintain the confidentiality of disclosed information and use it solely in connection with the Agreement."
+    },
+    {
+      "title": "Force Majeure",
+      "content": "Neither party shall be liable for failure or delay in performance due to conditions beyond its control, such as acts of God or natural disasters."
+    },
+    {
+      "title": "Dispute Resolution",
+      "content": "Disputes shall be resolved through good faith negotiations, with escalation to senior officers if necessary."
+    },
+    {
+      "title": "Miscellaneous",
+      "content": "The Agreement may not be assigned without prior consent. The parties are independent contractors, and compliance with applicable laws is required."
+    },
+    {
+      "title": "Definitions",
+      "content": "Various terms used in the Agreement are defined, including 'Affiliate,' 'Confidential Information,' 'Credentials,' and 'Services.'"
+    },
+    {
+      "title": "Governing Law",
+      "content": "Disputes arising from the Agreement shall be governed by the laws of the jurisdiction where the website or service provider is based."
+    }
+  ]
+}

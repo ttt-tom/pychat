@@ -1,0 +1,55 @@
+{
+    "main_title": "Global Trade Data Platform - Help Desk",
+    "quick_links": [
+        {
+            "label": "Payment",
+            "url": "https://www.tradeint.com/helpCenter/search/payment/?key=Payment"
+        },
+        {
+            "label": "Account Setting",
+            "url": "https://www.tradeint.com/helpCenter/search/account-setting/?key=Account%20Setting"
+        },
+        {
+            "label": "Global Trade Data",
+            "url": "https://www.tradeint.com/helpCenter/search/global-trade-data/?key=Global%20Trade%20Data"
+        },
+        {
+            "label": "Mirror Data",
+            "url": "https://www.tradeint.com/helpCenter/search/mirror-data/?key=Mirror%20Data"
+        },
+        {
+            "label": "Credits Usage",
+            "url": "https://www.tradeint.com/helpCenter/search/credits-usage/?key=Credits%20Usage"
+        },
+        {
+            "label": "Trade Data Coverage",
+            "url": "https://www.tradeint.com/helpCenter/search/trade-data-coverage/?key=Trade%20Data%20Coverage"
+        }
+    ],
+    "general_links": [
+        {
+            "title": "TradeInt General",
+            "url": "https://www.tradeint.com/helpCenter/general/tradeInt-general/"
+        },
+        {
+            "title": "Trade Data",
+            "url": "https://www.tradeint.com/helpCenter/general/trade-data/"
+        },
+        {
+            "title": "Tools",
+            "url": "https://www.tradeint.com/helpCenter/general/tools/"
+        },
+        {
+            "title": "Contact Us",
+            "url": "https://www.tradeint.com/helpCenter/general/contact-us/"
+        },
+        {
+            "title": "Account",
+            "url": "https://www.tradeint.com/helpCenter/general/account/"
+        },
+        {
+            "title": "Payment",
+            "url": "https://www.tradeint.com/helpCenter/general/payment/"
+        }
+    ]
+}

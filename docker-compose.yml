@@ -1,0 +1,38 @@
+version: '3.8'
+
+services:
+  wordpress:
+    image: wordpress:latest
+    container_name: wordpress
+    ports:
+      - "8080:80"
+    environment:
+      WORDPRESS_DB_HOST: db
+      WORDPRESS_DB_USER: root
+      WORDPRESS_DB_PASSWORD: example
+      WORDPRESS_DB_NAME: wordpress
+    depends_on:
+      - db
+    networks:
+      - my_network
+
+  db:
+    image: mysql:5.7
+    container_name: wordpress_db
+    environment:
+      MYSQL_ROOT_PASSWORD: example
+      MYSQL_DATABASE: wordpress
+    networks:
+      - my_network
+
+  faq_chatbot:
+    build:
+      context: .  
+    container_name: faq_chatbot
+    ports:
+      - "8000:8000"
+    networks:
+      - my_network
+
+networks:
+  my_network:

@@ -1,0 +1,15 @@
+{
+  "category": "Trade Data",
+  "faqs": [
+    {
+      "question": "Login",
+      "answer": "1. Click on the link below to access our website: https://tradeInt.com/login\n2. To access the features of our platform, follow these simple steps to log in using your email and password:\n3. Locate the login form with 'Email' and 'Password' fields.\n4. Enter your registered email address and password accurately.\n5. Click on the 'Login' button.\n6. If correct, access will be granted to the platform.\n7. If incorrect, double-check your email and password and try again.\n\n8. If unable to log in, use the 'Forgot Password' link for assistance: https://tradeInt.com/forget-password/\n9. To reset your password, enter your email address in the provided field. Once you have entered your email, a link will be sent to you via email. Click on the link to initiate the password reset process.",
+      "url": "https://www.tradeint.com/helpCenter/login/"
+    },
+    {
+      "question": "How to link up 2FA on our platform",
+      "answer": "To enhance the security of accessing our TradeInt platform, we will be implementing 2FA (2 Factors Authentication) via various sources, namely Google or Microsoft Authenticator, WhatsApp One-time-password, and Zalo one-time-password, which generates time-sensitive verification codes. These codes are essential for logging in alongside your password, and a new code is generated every 30 seconds for Google Authenticator.\n\nStep 1: Download and Prepare the App\n- Download the Google Authenticator App: Go to your phone’s App Store and search for “Google Authenticator.” Install the app.\n- Open the App: Launch Google Authenticator and sign in with your work-associated email, then tap the '+' icon in the bottom right corner.\n- Select QR Code Scan: Click on 'Scan a QR code.' Your app is now ready to scan the code on our website.\n\nStep 2: Logging in with Google Authenticator\n- Whenever you log in from a computer, tablet, or phone with Google Authenticator as your primary security factor, you will be prompted for a code.\n- Enter Your Credentials: Log in with your username and password.\n- Enter Your Code: When prompted to 'Enter your code,' open the Authenticator app, retrieve the code, and enter it to complete your login.\n\nOption 2: 2FA via WhatsApp OTP or Zalo OTP\n- No app is required, just fill in your work-related mobile number and request a verification code to complete 2FA.\n\nIf you have any questions or need assistance, please don’t hesitate to reach out.",
+      "url": "https://www.tradeint.com/helpCenter/how-to-link-up-2fa-on-our-platform/"
+    }
+  ]
+}

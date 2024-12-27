@@ -1,0 +1,59 @@
+{
+    "Groups": {
+      "countries": ["BELT & ROAD", "CENTRAL AMERICA (TRANSIT)", "CENTRAL ASIA (TRANSIT)", "CIS", "PACIFIC ALLIANCE"],
+      "urls": {
+        "BELT & ROAD": "https://www.tradeint.com/product/countries-covered/groups-import-export-trade-data/belt-&-road-trade-data/",
+        "CENTRAL AMERICA (TRANSIT)": "https://www.tradeint.com/product/countries-covered/groups-import-export-trade-data/central-america-(transit)-trade-data/",
+        "CENTRAL ASIA (TRANSIT)": "https://www.tradeint.com/product/countries-covered/groups-import-export-trade-data/central-asia-(transit)-trade-data/",
+        "CIS": "https://www.tradeint.com/product/countries-covered/groups-import-export-trade-data/cis-trade-data/",
+        "PACIFIC ALLIANCE": "https://www.tradeint.com/product/countries-covered/groups-import-export-trade-data/pacific-alliance-trade-data/"
+      }
+    },
+    "Africa": {
+      "countries": ["Algeria", "Angola", "Benin", "Botswana", "Burkina Faso", "Burundi", "Cameroon", 
+      "Cape Verde", "Central African Republic", "Chad", "Comoros", "Côte d'Ivoire", "Democratic Congo", 
+      "Djibouti", "Egypt", "Equatorial Guinea", "Eritrea", "Ethiopia", "Gabon", "Gambia", "Ghana", "Guinea", 
+      "Guinea-Bissau", "Kenya", "Lesotho", "Liberia", "Libya", "Madagascar", "Malawi", "Mali", "Mauritania", 
+      "Mauritius", "Mayotte", "Morocco", "Mozambique", "Namibia", "Niger", "Nigeria", "Rwanda", "São Tomé & Príncipe", 
+      "Senegal", "Seychelles", "Sierra Leone", "Somalia", "South Africa", "South Sudan"],
+      "url": "https://www.tradeint.com/product/countries-covered/africa-import-export-trade-data/"
+    },
+    "Asia": {
+      "countries": ["Afghanistan", "Armenia", "Azerbaijan", "Bahrain", "Bangladesh", "Brunei", "Cambodia", "China", 
+      "Cyprus", "Georgia", "Hong Kong (China)", "India", "Indonesia", "Iran", "Iraq", "Israel", "Japan", "Jordan", 
+      "Kazakhstan", "Kuwait", "Laos", "Lebanon", "Macau (China)", "Malaysia", "Maldives", "Mongolia", "Myanmar", 
+      "Nepal", "Oman", "Pakistan", "Palestine", "Philippines", "Qatar", "Saudi Arabia", "Singapore", "South Korea", 
+      "Sri Lanka", "Syria", "Taiwan (China)", "Thailand", "Timor-Leste", "Turkey", "UAE", "Uzbekistan", "Vietnam", 
+      "Yemen"],
+      "url": "https://www.tradeint.com/product/countries-covered/asia-import-export-trade-data/"
+    },
+    "Europe": {
+      "countries": ["Albania", "Austria", "Belarus", "Belgium", "Bosnia & Herzegovina", "Bulgaria", 
+      "Croatia", "Czech Republic", "Denmark", "Estonia", "Faeroe Islands", "Finland", "France", "Germany", 
+      "Gibraltar", "Greece", "Hungary", "Iceland", "Ireland", "Italy", "Kosovo", "Latvia", "Lithuania", 
+      "Luxembourg", "Macedonia", "Malta", "Moldova", "Montenegro", "Netherlands", "Norway", "Poland", 
+      "Portugal", "Reunion", "Romania", "Russia", "Serbia", "Slovakia", "Slovenia", "Spain", "Sweden", 
+      "Switzerland", "Ukraine", "United Kingdom"],
+      "url": "https://www.tradeint.com/product/countries-covered/europe-import-export-trade-data/"
+    },
+    "North America": {
+      "countries": ["Anguilla", "Antigua & Barbuda", "Aruba", "Bahamas", "Barbados", "Belize", "Bermuda", 
+      "Canada", "Cayman Islands", "Costa Rica", "Cuba", "Curaçao", "Dominica", "Dominican Republic", 
+      "El Salvador", "Greenland", "Grenada", "Guadeloupe", "Guatemala", "Haiti", "Honduras", "Jamaica", 
+      "Martinique", "Mexico", "Montserrat", "Nicaragua", "Puerto Rico", "Saint Lucia", "St. Kitts & Nevis", 
+      "St. Vincent & Grenadines", "Trinidad & Tobago", "Turks & Caicos", "United States", "USA Samoa"],
+      "url": "https://www.tradeint.com/product/countries-covered/north-america-import-export-trade-data/"
+    },
+    "Oceania": {
+      "countries": ["New Zealand", "Fiji", "Solomon Islands", "Papua New Guinea", "Northern Mariana Islands", 
+      "Wallis & Futuna", "Polynesia", "Cook Islands", "Guam", "Virgin Islands", "Samoa", "Tonga", "Vanuatu", 
+      "Kiribati", "New Caledonia", "Australia"],
+      "url": "https://www.tradeint.com/product/countries-covered/oceania-import-export-trade-data/"
+    },
+    "South America": {
+      "countries": ["Argentina", "Bolivia", "Brazil", "Chile", "Colombia", "Ecuador", "French Guiana", "Guyana", 
+      "Panama", "Paraguay", "Peru", "Suriname", "Uruguay", "Venezuela"],
+      "url": "https://www.tradeint.com/product/countries-covered/south-america-import-export-trade-data/"
+    }
+  }
+  

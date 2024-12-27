@@ -1,0 +1,45 @@
+{
+  "category": "Account",
+  "faqs": [
+    {
+      "question": "How do I create an account on TradeInt?",
+      "answer": "To create an account on TradeInt, simply visit our website pricing and click on the \"Get Standard/Essential/Premium\" button. Choose your payment method of Stripe or Paypal. Fill out the required information, including your name, email address, and desired password. Once completed, you will receive an account creation link in your email, and your account will be created.",
+      "url": "https://www.tradeint.com/helpCenter/how-do-i-create-an-account-on-tradeint/"
+    },
+    {
+      "question": "Can I change my account password?",
+      "answer": "Yes, you can change your account password. To do so, log in to your TradeInt account. Look for the option to change your password and follow the provided instructions. Make sure to choose a strong and unique password for security purposes.",
+      "url": "https://www.tradeint.com/helpCenter/can-i-change-my-account-password/"
+    },
+    {
+      "question": "What should I do if I forget my account password?",
+      "answer": "If you forget your account password, don't worry. On the login page, you will find a \"Forgot Password\" link. Click on it and enter the email address associated with your TradeInt account. Follow the instructions sent to your email to reset your password and regain access to your account.",
+      "url": "https://www.tradeint.com/helpCenter/what-should-i-do-if-i-forget-my-account-password/"
+    },
+    {
+      "question": "Can I update my account information?",
+      "answer": "Yes, you can update your account information as needed. Log in to your TradeInt account and go to 'My Account.' Here, you can modify your personal details, such as your name, contact information, and preferences. Make sure to save the changes after updating your account information.",
+      "url": "https://www.tradeint.com/helpCenter/can-i-update-my-account-information/"
+    },
+    {
+      "question": "Can I upgrade my subscription plan?",
+      "answer": "Yes, you have the flexibility to upgrade your subscription plan on TradeInt. Please contact your sales specialist, or alternatively you may contact TradeInt at sales@TradeInt.",
+      "url": "https://www.tradeint.com/helpCenter/can-i-upgrade-my-subscription-plan/"
+    },
+    {
+      "question": "How can I contact customer support for account-related inquiries?",
+      "answer": "If you have any account-related inquiries or need assistance, our TradeInt customer support team is here to help. You can contact us through email, phone, or the online contact form available on our website. We will respond to your inquiries and provide the necessary support to address your account-related concerns.",
+      "url": "https://www.tradeint.com/helpCenter/how-can-i-contact-customer-support-for-account-related-inquiries/"
+    },
+    {
+      "question": "Can I cancel my TradeInt subscription?",
+      "answer": "We apologize for any inconvenience, but we do not offer the option to cancel subscriptions or provide refunds. Once you subscribe to TradeInt, the subscription is non-cancellable and non-refundable. We encourage you to carefully consider your subscription plan and its suitability for your needs before making a purchase.",
+      "url": "https://www.tradeint.com/helpCenter/can-i-cancel-my-tradeint-subscription/"
+    },
+    {
+      "question": "What happens if I no longer want to use TradeInt after subscribing?",
+      "answer": "We understand that circumstances may change, but please note that once you have subscribed to TradeInt, the subscription is considered non-cancellable. As such, it is important to assess your requirements and choose a subscription plan that aligns with your long-term needs.",
+      "url": "https://www.tradeint.com/helpCenter/what-happens-if-i-no-longer-want-to-use-tradeint-after-subscribing/"
+    }
+  ]
+}

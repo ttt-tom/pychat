@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI ChatBot Widget</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .chat-container {
+            width: 100%;
+            max-width: 400px;
+            margin: 0 auto;
+            border: 1px solid #ccc;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        .messages {
+            height: 300px;
+            overflow-y: auto;
+            margin-bottom: 20px;
+            border: 1px solid #ddd;
+            padding: 10px;
+            border-radius: 5px;
+            background: #f9f9f9;
+        }
+        .messages p {
+            margin: 0;
+            padding: 5px 0;
+        }
+        .input-container {
+            display: flex;
+            gap: 10px;
+        }
+        input[type="text"] {
+            flex: 1;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        button {
+            padding: 10px 15px;
+            background: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="chat-container">
+        <h2>AI ChatBot</h2>
+        <div class="messages" id="messages"></div>
+        <div class="input-container">
+            <input type="text" id="userInput" placeholder="Type your question here...">
+            <button id="sendButton">Send</button>
+        </div>
+    </div>
+
+    <script>
+        const sendButton = document.getElementById('sendButton');
+        const userInput = document.getElementById('userInput');
+        const messages = document.getElementById('messages');
+
+        sendButton.addEventListener('click', () => {
+            const question = userInput.value.trim();
+            if (question) {
+                // Display askd question in the chat
+                const userMessage = document.createElement('p');
+                userMessage.textContent = `You: ${question}`;
+                messages.appendChild(userMessage);
+
+                // aichatbot API
+                fetch('http://localhost:8000/ask_ai/?question=' + encodeURIComponent(question))
+                    .then(response => response.json())
+                    .then(data => {
+                        // Display chatbot's response 
+                        const botMessage = document.createElement('p');
+                        botMessage.textContent = `Bot: ${data.answer}`;
+                        messages.appendChild(botMessage);
+                        messages.scrollTop = messages.scrollHeight;
+                    })
+                    .catch(error => {
+                        console.error('Error:', error);
+                        const errorMessage = document.createElement('p');
+                        errorMessage.textContent = 'Error: Unable to get a response from the bot.';
+                        messages.appendChild(errorMessage);
+                        messages.scrollTop = messages.scrollHeight;
+                    });
+
+                // Clear  input
+                userInput.value = '';
+            }
+        });
+    </script>
+</body>
+</html>
